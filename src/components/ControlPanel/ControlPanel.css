@@ -1,0 +1,12 @@
+.ControlPanel button {
+  border: 1px solid transparent;
+  background-color: transparent;
+  outline: 0;
+  border-radius: 50%;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.ControlPanel button:hover {
+  background-color: #efefef;
+}
